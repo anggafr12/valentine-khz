@@ -410,7 +410,7 @@ function App() {
             <div className="story-panel closing-panel" key="closing">
               <h2>Kalau kamu berkenan...</h2>
               <p className="main-copy">
-                Hubungi aku lagi ya. Aku senang banget kalau bisa lanjut ngobrol.
+                Tell me whats your reaction
               </p>
               <a
                 className="wa-cta"
